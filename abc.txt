@@ -3,3 +3,9 @@ fd
 g
 gh
 gf
+
+d
+
+f
+
+gg
